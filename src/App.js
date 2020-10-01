@@ -3,7 +3,7 @@ import "react-loader-spinner/dist/loader/css/react-spinner-loader.css";
 
 import Currencies from './components/currencies/currencies';
 
-function App() {
+const App = props => {
 
   return (
     <div className="sm:flex w-screen h-screen sm:justify-center sm:items-center bg-gray-300">

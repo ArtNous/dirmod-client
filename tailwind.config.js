@@ -6,6 +6,9 @@ module.exports = {
   purge: [],
   theme: {
     extend: {},
+    minWidth: {
+      widget: '120px'
+    }
   },
   variants: {},
   plugins: [],

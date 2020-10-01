@@ -11733,12 +11733,8 @@ video {
   min-height: 100vh;
 }
 
-.min-w-0 {
-  min-width: 0;
-}
-
-.min-w-full {
-  min-width: 100%;
+.min-w-widget {
+  min-width: 120px;
 }
 
 .object-contain {
@@ -22378,6 +22374,10 @@ video {
 .animate-bounce {
   -webkit-animation: bounce 1s infinite;
           animation: bounce 1s infinite;
+}
+
+svg {
+  margin: auto;
 }
 
 @media (min-width: 640px) {
@@ -33524,12 +33524,8 @@ video {
     min-height: 100vh;
   }
 
-  .sm\:min-w-0 {
-    min-width: 0;
-  }
-
-  .sm\:min-w-full {
-    min-width: 100%;
+  .sm\:min-w-widget {
+    min-width: 120px;
   }
 
   .sm\:object-contain {
@@ -55250,12 +55246,8 @@ video {
     min-height: 100vh;
   }
 
-  .md\:min-w-0 {
-    min-width: 0;
-  }
-
-  .md\:min-w-full {
-    min-width: 100%;
+  .md\:min-w-widget {
+    min-width: 120px;
   }
 
   .md\:object-contain {
@@ -76976,12 +76968,8 @@ video {
     min-height: 100vh;
   }
 
-  .lg\:min-w-0 {
-    min-width: 0;
-  }
-
-  .lg\:min-w-full {
-    min-width: 100%;
+  .lg\:min-w-widget {
+    min-width: 120px;
   }
 
   .lg\:object-contain {
@@ -98702,12 +98690,8 @@ video {
     min-height: 100vh;
   }
 
-  .xl\:min-w-0 {
-    min-width: 0;
-  }
-
-  .xl\:min-w-full {
-    min-width: 100%;
+  .xl\:min-w-widget {
+    min-width: 120px;
   }
 
   .xl\:object-contain {
