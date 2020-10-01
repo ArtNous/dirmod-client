@@ -10394,7 +10394,7 @@ video {
 }
 
 .h-widget-container {
-  height: 75%;
+  height: 50%;
 }
 
 .text-xs {
@@ -32197,7 +32197,7 @@ svg {
   }
 
   .sm\:h-widget-container {
-    height: 75%;
+    height: 50%;
   }
 
   .sm\:text-xs {
@@ -53931,7 +53931,7 @@ svg {
   }
 
   .md\:h-widget-container {
-    height: 75%;
+    height: 50%;
   }
 
   .md\:text-xs {
@@ -75665,7 +75665,7 @@ svg {
   }
 
   .lg\:h-widget-container {
-    height: 75%;
+    height: 50%;
   }
 
   .lg\:text-xs {
@@ -97399,7 +97399,7 @@ svg {
   }
 
   .xl\:h-widget-container {
-    height: 75%;
+    height: 50%;
   }
 
   .xl\:text-xs {

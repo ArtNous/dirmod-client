@@ -10,7 +10,7 @@ module.exports = {
         widget: '120px'
       },
       height: {
-        'widget-container': '75%'
+        'widget-container': '50%'
       }
     }
   },
