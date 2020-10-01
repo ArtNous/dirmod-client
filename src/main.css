@@ -11721,16 +11721,8 @@ video {
   max-width: 1280px;
 }
 
-.min-h-0 {
-  min-height: 0;
-}
-
-.min-h-full {
-  min-height: 100%;
-}
-
-.min-h-screen {
-  min-height: 100vh;
+.min-h-widget-container {
+  min-height: 75%;
 }
 
 .min-w-widget {
@@ -33512,16 +33504,8 @@ svg {
     max-width: 1280px;
   }
 
-  .sm\:min-h-0 {
-    min-height: 0;
-  }
-
-  .sm\:min-h-full {
-    min-height: 100%;
-  }
-
-  .sm\:min-h-screen {
-    min-height: 100vh;
+  .sm\:min-h-widget-container {
+    min-height: 75%;
   }
 
   .sm\:min-w-widget {
@@ -55234,16 +55218,8 @@ svg {
     max-width: 1280px;
   }
 
-  .md\:min-h-0 {
-    min-height: 0;
-  }
-
-  .md\:min-h-full {
-    min-height: 100%;
-  }
-
-  .md\:min-h-screen {
-    min-height: 100vh;
+  .md\:min-h-widget-container {
+    min-height: 75%;
   }
 
   .md\:min-w-widget {
@@ -76956,16 +76932,8 @@ svg {
     max-width: 1280px;
   }
 
-  .lg\:min-h-0 {
-    min-height: 0;
-  }
-
-  .lg\:min-h-full {
-    min-height: 100%;
-  }
-
-  .lg\:min-h-screen {
-    min-height: 100vh;
+  .lg\:min-h-widget-container {
+    min-height: 75%;
   }
 
   .lg\:min-w-widget {
@@ -98678,16 +98646,8 @@ svg {
     max-width: 1280px;
   }
 
-  .xl\:min-h-0 {
-    min-height: 0;
-  }
-
-  .xl\:min-h-full {
-    min-height: 100%;
-  }
-
-  .xl\:min-h-screen {
-    min-height: 100vh;
+  .xl\:min-h-widget-container {
+    min-height: 75%;
   }
 
   .xl\:min-w-widget {
