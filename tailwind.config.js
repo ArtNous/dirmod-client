@@ -5,12 +5,13 @@ module.exports = {
   },
   purge: [],
   theme: {
-    extend: {},
-    minWidth: {
-      widget: '120px'
-    },
-    minHeight: {
-      'widget-container': '75%'
+    extend: {
+      minWidth: {
+        widget: '120px'
+      },
+      height: {
+        'widget-container': '75%'
+      }
     }
   },
   variants: {},

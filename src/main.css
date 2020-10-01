@@ -10393,6 +10393,10 @@ video {
   height: 100vh;
 }
 
+.h-widget-container {
+  height: 75%;
+}
+
 .text-xs {
   font-size: 0.75rem;
 }
@@ -11721,8 +11725,24 @@ video {
   max-width: 1280px;
 }
 
-.min-h-widget-container {
-  min-height: 75%;
+.min-h-0 {
+  min-height: 0;
+}
+
+.min-h-full {
+  min-height: 100%;
+}
+
+.min-h-screen {
+  min-height: 100vh;
+}
+
+.min-w-0 {
+  min-width: 0;
+}
+
+.min-w-full {
+  min-width: 100%;
 }
 
 .min-w-widget {
@@ -32176,6 +32196,10 @@ svg {
     height: 100vh;
   }
 
+  .sm\:h-widget-container {
+    height: 75%;
+  }
+
   .sm\:text-xs {
     font-size: 0.75rem;
   }
@@ -33504,8 +33528,24 @@ svg {
     max-width: 1280px;
   }
 
-  .sm\:min-h-widget-container {
-    min-height: 75%;
+  .sm\:min-h-0 {
+    min-height: 0;
+  }
+
+  .sm\:min-h-full {
+    min-height: 100%;
+  }
+
+  .sm\:min-h-screen {
+    min-height: 100vh;
+  }
+
+  .sm\:min-w-0 {
+    min-width: 0;
+  }
+
+  .sm\:min-w-full {
+    min-width: 100%;
   }
 
   .sm\:min-w-widget {
@@ -53890,6 +53930,10 @@ svg {
     height: 100vh;
   }
 
+  .md\:h-widget-container {
+    height: 75%;
+  }
+
   .md\:text-xs {
     font-size: 0.75rem;
   }
@@ -55218,8 +55262,24 @@ svg {
     max-width: 1280px;
   }
 
-  .md\:min-h-widget-container {
-    min-height: 75%;
+  .md\:min-h-0 {
+    min-height: 0;
+  }
+
+  .md\:min-h-full {
+    min-height: 100%;
+  }
+
+  .md\:min-h-screen {
+    min-height: 100vh;
+  }
+
+  .md\:min-w-0 {
+    min-width: 0;
+  }
+
+  .md\:min-w-full {
+    min-width: 100%;
   }
 
   .md\:min-w-widget {
@@ -75604,6 +75664,10 @@ svg {
     height: 100vh;
   }
 
+  .lg\:h-widget-container {
+    height: 75%;
+  }
+
   .lg\:text-xs {
     font-size: 0.75rem;
   }
@@ -76932,8 +76996,24 @@ svg {
     max-width: 1280px;
   }
 
-  .lg\:min-h-widget-container {
-    min-height: 75%;
+  .lg\:min-h-0 {
+    min-height: 0;
+  }
+
+  .lg\:min-h-full {
+    min-height: 100%;
+  }
+
+  .lg\:min-h-screen {
+    min-height: 100vh;
+  }
+
+  .lg\:min-w-0 {
+    min-width: 0;
+  }
+
+  .lg\:min-w-full {
+    min-width: 100%;
   }
 
   .lg\:min-w-widget {
@@ -97318,6 +97398,10 @@ svg {
     height: 100vh;
   }
 
+  .xl\:h-widget-container {
+    height: 75%;
+  }
+
   .xl\:text-xs {
     font-size: 0.75rem;
   }
@@ -98646,8 +98730,24 @@ svg {
     max-width: 1280px;
   }
 
-  .xl\:min-h-widget-container {
-    min-height: 75%;
+  .xl\:min-h-0 {
+    min-height: 0;
+  }
+
+  .xl\:min-h-full {
+    min-height: 100%;
+  }
+
+  .xl\:min-h-screen {
+    min-height: 100vh;
+  }
+
+  .xl\:min-w-0 {
+    min-width: 0;
+  }
+
+  .xl\:min-w-full {
+    min-width: 100%;
   }
 
   .xl\:min-w-widget {

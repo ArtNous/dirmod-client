@@ -18,7 +18,7 @@ const cotizations = [
 const Currencies = props => {
 
     return (
-        <ul className="currencies flex-col h-widget-container sm:h-auto sm:flex-row container flex items-center justify-between my-2">
+        <ul className="flex-col h-widget-container container flex items-center justify-between my-2 sm:h-auto sm:flex-row">
             {cotizations.map(cot => <Currency cotization={cot} />)}
         </ul>
     )
